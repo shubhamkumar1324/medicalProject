@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "fullName": "Paracetamol 500mg",
+    "notes": "For fever",
+    "expiryDate": "2026-12-31",
+    "quantity": 25,
+    "price": 15.50,
+    "brand": "ABC Pharma"
+  }
+]

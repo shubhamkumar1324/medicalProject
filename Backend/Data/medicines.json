@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 0,
+    "FullName": "",
+    "Notes": "",
+    "ExpiryDate": "0001-01-01T00:00:00",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": ""
+  },
+  {
+    "Id": 1,
+    "FullName": "Paracetamol",
+    "Notes": "fever",
+    "ExpiryDate": "0001-01-01T00:00:00",
+    "Quantity": 20,
+    "Price": 50,
+    "Brand": "cipla"
+  },
+  {
+    "Id": 2,
+    "FullName": "Dolo1",
+    "Notes": "just medicine",
+    "ExpiryDate": "2026-05-07T00:00:00",
+    "Quantity": 20,
+    "Price": 100,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 3,
+    "FullName": "new",
+    "Notes": "fdsfsf",
+    "ExpiryDate": "2026-06-25T00:00:00",
+    "Quantity": 20,
+    "Price": 25,
+    "Brand": "ndsn"
+  }
+]
